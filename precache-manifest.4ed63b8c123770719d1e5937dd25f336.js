@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/tplan-i1v3/static/media/teamlogo.d2a483cb.png"
   },
   {
-    "revision": "70848a097ebc86a85bfaa173036d34fd",
+    "revision": "04a4c2864d1fa1e2f630d6cfb70843a3",
     "url": "/tplan-i1v3/index.html"
   }
 ];
