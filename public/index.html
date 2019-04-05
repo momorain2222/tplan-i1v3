@@ -142,6 +142,12 @@
         $("body").bootstrapMaterialDesign();
       });
 
+      // Configure Slider
+      $(".carousel").carousel({
+        interval: 6000,
+        pause: "hover"
+      });
+
       $("h1.spacing").on("mouseenter", function() {
         $(this).toggleClass("spaced");
       });
